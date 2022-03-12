@@ -1,0 +1,201 @@
+,city,state,lat,lng,request_url,sunrise_2022-01-01,sunset_2022-01-01
+715,Stratford,CT,41.184540,-73.133163,https://api.sunrise-sunset.org/json?lat=41.184540&lng=-73.133163&date=2022-01-01,12:16:23 PM,9:35:59 PM
+731,Roanoke,VA,37.270969,-79.941429,https://api.sunrise-sunset.org/json?lat=37.270969&lng=-79.941429&date=2022-01-01,12:32:19 PM,10:14:33 PM
+93,Jasper,AL,33.834263,-87.280708,https://api.sunrise-sunset.org/json?lat=33.834263&lng=-87.280708&date=2022-01-01,12:52:46 PM,10:52:49 PM
+908,Greenwood,Indiana,39.614944,-86.105606,https://api.sunrise-sunset.org/json?lat=39.614944&lng=-86.105606&date=2022-01-01,1:03:34 PM,10:32:37 PM
+315,Hesperia,CA,34.426388,-117.300880,https://api.sunrise-sunset.org/json?lat=34.426388&lng=-117.300880&date=2022-01-01,2:54:20 PM,12:51:29 AM
+712,Denver,CO,39.742043,-104.991531,https://api.sunrise-sunset.org/json?lat=39.742043&lng=-104.991531&date=2022-01-01,2:19:30 PM,11:47:50 PM
+382,Mt Prospect,IL,42.066418,-87.937294,https://api.sunrise-sunset.org/json?lat=42.066418&lng=-87.937294&date=2022-01-01,1:18:22 PM,10:32:29 PM
+587,Killeen,TX,31.117119,-97.727798,https://api.sunrise-sunset.org/json?lat=31.117119&lng=-97.727798&date=2022-01-01,1:28:04 PM,11:41:07 PM
+160,Woodbridge,NJ,40.560001,-74.290001,https://api.sunrise-sunset.org/json?lat=40.560001&lng=-74.290001&date=2022-01-01,12:19:07 PM,9:42:31 PM
+612,Wilmington,NC,34.225727,-77.944710,https://api.sunrise-sunset.org/json?lat=34.225727&lng=-77.944710&date=2022-01-01,12:16:24 PM,10:14:29 PM
+459,West Covina,CA,34.068623,-117.938950,https://api.sunrise-sunset.org/json?lat=34.068623&lng=-117.938950&date=2022-01-01,2:56:00 PM,12:54:56 AM
+553,Weston,FL,26.103039,-80.401382,https://api.sunrise-sunset.org/json?lat=26.103039&lng=-80.401382&date=2022-01-01,12:07:44 PM,10:42:48 PM
+29,Brunswick,GA,31.164404,-81.505600,https://api.sunrise-sunset.org/json?lat=31.164404&lng=-81.505600&date=2022-01-01,12:23:17 PM,10:36:06 PM
+447,Greenville,SC,34.852619,-82.394012,https://api.sunrise-sunset.org/json?lat=34.852619&lng=-82.394012&date=2022-01-01,12:35:46 PM,10:30:43 PM
+573,Centreville,VA,38.840389,-77.428879,https://api.sunrise-sunset.org/json?lat=38.840389&lng=-77.428879&date=2022-01-01,12:26:38 PM,10:00:07 PM
+240,Hot Springs,AR,34.496212,-93.057220,https://api.sunrise-sunset.org/json?lat=34.496212&lng=-93.057220&date=2022-01-01,1:17:32 PM,11:14:17 PM
+342,Pine Bluff,AR,34.224400,-92.019211,https://api.sunrise-sunset.org/json?lat=34.224400&lng=-92.019211&date=2022-01-01,1:12:42 PM,11:10:49 PM
+194,Surprise,AZ,33.630554,-112.366669,https://api.sunrise-sunset.org/json?lat=33.630554&lng=-112.366669&date=2022-01-01,2:32:37 PM,12:33:43 AM
+417,Centennial,CO,39.579231,-104.876694,https://api.sunrise-sunset.org/json?lat=39.579231&lng=-104.876694&date=2022-01-01,2:18:33 PM,11:47:51 PM
+266,Mt Sterling,KY,38.056469,-83.943253,https://api.sunrise-sunset.org/json?lat=38.056469&lng=-83.943253&date=2022-01-01,12:50:29 PM,10:28:24 PM
+288,Madison,WI,43.073051,-89.401230,https://api.sunrise-sunset.org/json?lat=43.073051&lng=-89.401230&date=2022-01-01,1:27:29 PM,10:35:05 PM
+605,Concord,CA,37.989128,-122.043686,https://api.sunrise-sunset.org/json?lat=37.989128&lng=-122.043686&date=2022-01-01,3:22:42 PM,1:01:04 AM
+45,New Castle,DE,39.668564,-75.586189,https://api.sunrise-sunset.org/json?lat=39.668564&lng=-75.586189&date=2022-01-01,12:21:39 PM,9:50:21 PM
+562,Dundalk,MD,39.250664,-76.520515,https://api.sunrise-sunset.org/json?lat=39.250664&lng=-76.520515&date=2022-01-01,12:24:10 PM,9:55:19 PM
+890,Longview,TX,32.514885,-94.737236,https://api.sunrise-sunset.org/json?lat=32.514885&lng=-94.737236&date=2022-01-01,1:19:24 PM,11:25:52 PM
+961,Detroit,Michigan,42.331429,-83.045753,https://api.sunrise-sunset.org/json?lat=42.331429&lng=-83.045753&date=2022-01-01,12:59:39 PM,10:12:03 PM
+546,La Crosse,WI,43.801357,-91.239578,https://api.sunrise-sunset.org/json?lat=43.801357&lng=-91.239578&date=2022-01-01,1:37:16 PM,10:40:00 PM
+81,Forrest City,AR,35.010712,-90.797783,https://api.sunrise-sunset.org/json?lat=35.010712&lng=-90.797783&date=2022-01-01,1:09:48 PM,11:03:56 PM
+774,Bountiful,UT,40.889389,-111.880768,https://api.sunrise-sunset.org/json?lat=40.889389&lng=-111.880768&date=2022-01-01,2:50:29 PM,12:11:58 AM
+565,St. Petersburg,FL,27.773056,-82.639999,https://api.sunrise-sunset.org/json?lat=27.773056&lng=-82.639999&date=2022-01-01,12:20:14 PM,10:48:13 PM
+926,Naperville,IL,41.748489,-88.186111,https://api.sunrise-sunset.org/json?lat=41.748489&lng=-88.186111&date=2022-01-01,1:18:21 PM,10:34:29 PM
+611,Dana Point,CA,33.466972,-117.698105,https://api.sunrise-sunset.org/json?lat=33.466972&lng=-117.698105&date=2022-01-01,2:53:33 PM,12:55:27 AM
+700,Fond du Lac,WI,43.774071,-88.455734,https://api.sunrise-sunset.org/json?lat=43.774071&lng=-88.455734&date=2022-01-01,1:26:03 PM,10:28:57 PM
+441,Biloxi,MS,30.396032,-88.885307,https://api.sunrise-sunset.org/json?lat=30.396032&lng=-88.885307&date=2022-01-01,12:51:02 PM,11:07:24 PM
+245,Tempe,AZ,33.427204,-111.939896,https://api.sunrise-sunset.org/json?lat=33.427204&lng=-111.939896&date=2022-01-01,2:30:25 PM,12:32:30 AM
+257,Foster,RI,41.853710,-71.758125,https://api.sunrise-sunset.org/json?lat=41.853710&lng=-71.758125&date=2022-01-01,12:12:58 PM,9:28:24 PM
+2,Carlinville,IL,39.280560,-89.890327,https://api.sunrise-sunset.org/json?lat=39.280560&lng=-89.890327&date=2022-01-01,1:17:44 PM,10:48:44 PM
+872,Salem,OR,44.944099,-123.040283,https://api.sunrise-sunset.org/json?lat=44.944099&lng=-123.040283&date=2022-01-01,3:48:26 PM,12:43:19 AM
+916,Baytown,TX,29.733303,-94.978134,https://api.sunrise-sunset.org/json?lat=29.733303&lng=-94.978134&date=2022-01-01,1:13:55 PM,11:33:17 PM
+754,Bossier City,LA,32.515984,-93.732124,https://api.sunrise-sunset.org/json?lat=32.515984&lng=-93.732124&date=2022-01-01,1:15:22 PM,11:21:51 PM
+270,Sanford,FL,28.807674,-81.274948,https://api.sunrise-sunset.org/json?lat=28.807674&lng=-81.274948&date=2022-01-01,12:17:02 PM,10:40:30 PM
+899,Brainerd,MN,46.355934,-94.201408,https://api.sunrise-sunset.org/json?lat=46.355934&lng=-94.201408&date=2022-01-01,1:58:15 PM,10:42:44 PM
+8,Alton,IL,38.908852,-90.169662,https://api.sunrise-sunset.org/json?lat=38.908852&lng=-90.169662&date=2022-01-01,1:17:47 PM,10:50:55 PM
+678,Costa Mesa,CA,33.641132,-117.918671,https://api.sunrise-sunset.org/json?lat=33.641132&lng=-117.918671&date=2022-01-01,2:54:52 PM,12:55:55 AM
+577,Moab,UT,38.573315,-109.549843,https://api.sunrise-sunset.org/json?lat=38.573315&lng=-109.549843&date=2022-01-01,2:34:22 PM,12:09:26 AM
+11,Pocatello,ID,42.880363,-112.452911,https://api.sunrise-sunset.org/json?lat=42.880363&lng=-112.452911&date=2022-01-01,2:59:04 PM,12:07:58 AM
+383,Katy,TX,29.785786,-95.824394,https://api.sunrise-sunset.org/json?lat=29.785786&lng=-95.824394&date=2022-01-01,1:17:25 PM,11:36:33 PM
+18,Washington,GA,33.740253,-82.745857,https://api.sunrise-sunset.org/json?lat=33.740253&lng=-82.745857&date=2022-01-01,12:34:24 PM,10:34:54 PM
+635,Avondale,AZ,33.435596,-112.349602,https://api.sunrise-sunset.org/json?lat=33.435596&lng=-112.349602&date=2022-01-01,2:32:05 PM,12:34:08 AM
+196,Miramar,FL,25.978889,-80.282501,https://api.sunrise-sunset.org/json?lat=25.978889&lng=-80.282501&date=2022-01-01,12:07:00 PM,10:42:35 PM
+497,Greece,NY,43.209785,-77.693062,https://api.sunrise-sunset.org/json?lat=43.209785&lng=-77.693062&date=2022-01-01,12:41:06 PM,9:47:46 PM
+137,Kingston,NY,41.931828,-74.011108,https://api.sunrise-sunset.org/json?lat=41.931828&lng=-74.011108&date=2022-01-01,12:22:14 PM,9:37:10 PM
+634,Pomona,CA,34.055103,-117.749992,https://api.sunrise-sunset.org/json?lat=34.055103&lng=-117.749992&date=2022-01-01,2:55:13 PM,12:54:13 AM
+571,St. George,UT,37.095169,-113.575974,https://api.sunrise-sunset.org/json?lat=37.095169&lng=-113.575974&date=2022-01-01,2:46:23 PM,12:29:38 AM
+149,Mason,OH,39.368340,-84.329590,https://api.sunrise-sunset.org/json?lat=39.368340&lng=-84.329590&date=2022-01-01,12:55:45 PM,10:26:13 PM
+31,Bainbridge,GA,30.903612,-84.585205,https://api.sunrise-sunset.org/json?lat=30.903612&lng=-84.585205&date=2022-01-01,12:35:00 PM,10:49:01 PM
+527,Burien,WA,47.470379,-122.346794,https://api.sunrise-sunset.org/json?lat=47.470379&lng=-122.346794&date=2022-01-01,3:55:08 PM,12:31:05 AM
+82,Crossett,AR,33.132671,-91.971634,https://api.sunrise-sunset.org/json?lat=33.132671&lng=-91.971634&date=2022-01-01,1:09:49 PM,11:13:19 PM
+739,Winston-Salem,NC,36.099861,-80.244217,https://api.sunrise-sunset.org/json?lat=36.099861&lng=-80.244217&date=2022-01-01,12:30:24 PM,10:18:53 PM
+746,Milwaukee,WI,43.038902,-87.906471,https://api.sunrise-sunset.org/json?lat=43.038902&lng=-87.906471&date=2022-01-01,1:21:23 PM,10:29:12 PM
+594,Norwalk,CA,33.902237,-118.081734,https://api.sunrise-sunset.org/json?lat=33.902237&lng=-118.081734&date=2022-01-01,2:56:10 PM,12:55:55 AM
+154,Auburn,NY,42.933334,-76.566666,https://api.sunrise-sunset.org/json?lat=42.933334&lng=-76.566666&date=2022-01-01,12:35:41 PM,9:44:10 PM
+751,Lincoln,NE,40.806862,-96.681679,https://api.sunrise-sunset.org/json?lat=40.806862&lng=-96.681679&date=2022-01-01,1:49:26 PM,11:11:23 PM
+829,Peoria,Il,40.703545,-89.579086,https://api.sunrise-sunset.org/json?lat=40.703545&lng=-89.579086&date=2022-01-01,1:20:42 PM,10:43:17 PM
+258,Mannford,OK,36.133411,-96.354454,https://api.sunrise-sunset.org/json?lat=36.133411&lng=-96.354454&date=2022-01-01,1:34:56 PM,11:23:16 PM
+214,Worcester,MA,42.271389,-71.798889,https://api.sunrise-sunset.org/json?lat=42.271389&lng=-71.798889&date=2022-01-01,12:14:28 PM,9:27:14 PM
+723,Palm Coast,FL,29.584452,-81.207870,https://api.sunrise-sunset.org/json?lat=29.584452&lng=-81.207870&date=2022-01-01,12:18:29 PM,10:38:30 PM
+252,Fargo,ND,46.877186,-96.789803,https://api.sunrise-sunset.org/json?lat=46.877186&lng=-96.789803&date=2022-01-01,2:10:35 PM,10:51:06 PM
+775,Wichita Falls,TX,33.930828,-98.484879,https://api.sunrise-sunset.org/json?lat=33.930828&lng=-98.484879&date=2022-01-01,1:37:50 PM,11:37:25 PM
+325,Eldorado Springs,CO,39.932117,-105.281639,https://api.sunrise-sunset.org/json?lat=39.932117&lng=-105.281639&date=2022-01-01,2:21:13 PM,11:48:26 PM
+415,Las Cruces,NM,32.326595,-106.775436,https://api.sunrise-sunset.org/json?lat=32.326595&lng=-106.775436&date=2022-01-01,2:07:06 PM,12:14:30 AM
+249,Decatur,AL,34.603817,-86.985039,https://api.sunrise-sunset.org/json?lat=34.603817&lng=-86.985039&date=2022-01-01,12:53:31 PM,10:49:43 PM
+770,Poughkeepsie,NY,41.708290,-73.923912,https://api.sunrise-sunset.org/json?lat=41.708290&lng=-73.923912&date=2022-01-01,12:21:11 PM,9:37:31 PM
+384,Cary,NC,35.791538,-78.781120,https://api.sunrise-sunset.org/json?lat=35.791538&lng=-78.781120&date=2022-01-01,12:23:44 PM,10:13:50 PM
+301,Alameda,CA,37.765205,-122.241638,https://api.sunrise-sunset.org/json?lat=37.765205&lng=-122.241638&date=2022-01-01,3:22:53 PM,1:02:29 AM
+360,Corvallis,OR,44.564568,-123.262047,https://api.sunrise-sunset.org/json?lat=44.564568&lng=-123.262047&date=2022-01-01,3:48:00 PM,12:45:32 AM
+579,Allen,TX,33.103172,-96.670547,https://api.sunrise-sunset.org/json?lat=33.103172&lng=-96.670547&date=2022-01-01,1:28:33 PM,11:32:11 PM
+450,Elgin,IL,42.035408,-88.282570,https://api.sunrise-sunset.org/json?lat=42.035408&lng=-88.282570&date=2022-01-01,1:19:39 PM,10:33:57 PM
+38,Melbourne,FL,28.118488,-80.670372,https://api.sunrise-sunset.org/json?lat=28.118488&lng=-80.670372&date=2022-01-01,12:13:06 PM,10:39:35 PM
+825,Orlando,FL,28.538336,-81.379234,https://api.sunrise-sunset.org/json?lat=28.538336&lng=-81.379234&date=2022-01-01,12:16:51 PM,10:41:30 PM
+646,Lawton,OK,34.603565,-98.395927,https://api.sunrise-sunset.org/json?lat=34.603565&lng=-98.395927&date=2022-01-01,1:39:09 PM,11:35:23 PM
+428,Brentwood,TN,36.033115,-86.782776,https://api.sunrise-sunset.org/json?lat=36.033115&lng=-86.782776&date=2022-01-01,12:56:22 PM,10:45:14 PM
+716,Compton,CA,33.895847,-118.220070,https://api.sunrise-sunset.org/json?lat=33.895847&lng=-118.220070&date=2022-01-01,2:56:42 PM,12:56:29 AM
+963,Plankinton,SD,43.714790,-98.484451,https://api.sunrise-sunset.org/json?lat=43.714790&lng=-98.484451&date=2022-01-01,2:05:58 PM,11:09:17 PM
+705,Salinas,CA,36.677738,-121.655502,https://api.sunrise-sunset.org/json?lat=36.677738&lng=-121.655502&date=2022-01-01,3:17:35 PM,1:03:05 AM
+608,Canonsburg,PA,40.262569,-80.187279,https://api.sunrise-sunset.org/json?lat=40.262569&lng=-80.187279&date=2022-01-01,12:41:49 PM,10:07:01 PM
+704,Cedar Rapids,IA,41.977879,-91.665627,https://api.sunrise-sunset.org/json?lat=41.977879&lng=-91.665627&date=2022-01-01,1:33:00 PM,10:47:41 PM
+500,El Cajon,CA,32.794773,-116.962524,https://api.sunrise-sunset.org/json?lat=32.794773&lng=-116.962524&date=2022-01-01,2:48:59 PM,12:54:09 AM
+918,Vallejo,CA,38.104088,-122.256638,https://api.sunrise-sunset.org/json?lat=38.104088&lng=-122.256638&date=2022-01-01,3:23:53 PM,1:01:36 AM
+373,Revere,MA,42.408428,-71.011993,https://api.sunrise-sunset.org/json?lat=42.408428&lng=-71.011993&date=2022-01-01,12:11:45 PM,9:23:38 PM
+749,Burlington,VT,44.475883,-73.212074,https://api.sunrise-sunset.org/json?lat=44.475883&lng=-73.212074&date=2022-01-01,12:27:29 PM,9:25:31 PM
+181,College Station,TX,30.601389,-96.314445,https://api.sunrise-sunset.org/json?lat=30.601389&lng=-96.314445&date=2022-01-01,1:21:14 PM,11:36:39 PM
+215,Tallahassee,FL,30.455000,-84.253334,https://api.sunrise-sunset.org/json?lat=30.455000&lng=-84.253334&date=2022-01-01,12:32:38 PM,10:48:43 PM
+953,Franklinton,LA,30.847425,-90.154503,https://api.sunrise-sunset.org/json?lat=30.847425&lng=-90.154503&date=2022-01-01,12:57:09 PM,11:11:26 PM
+828,Wichita,KS,37.697948,-97.314835,https://api.sunrise-sunset.org/json?lat=37.697948&lng=-97.314835&date=2022-01-01,1:42:59 PM,11:22:55 PM
+88,Tuskegee,AL,32.429066,-85.715233,https://api.sunrise-sunset.org/json?lat=32.429066&lng=-85.715233&date=2022-01-01,12:43:06 PM,10:49:58 PM
+621,Covina,CA,34.090008,-117.890343,https://api.sunrise-sunset.org/json?lat=34.090008&lng=-117.890343&date=2022-01-01,2:55:52 PM,12:54:41 AM
+112,Garden Grove,CA,33.785645,-117.973480,https://api.sunrise-sunset.org/json?lat=33.785645&lng=-117.973480&date=2022-01-01,2:55:26 PM,12:55:46 AM
+63,Bristol,CT,41.685173,-72.962708,https://api.sunrise-sunset.org/json?lat=41.685173&lng=-72.962708&date=2022-01-01,12:17:16 PM,9:33:45 PM
+178,Springfield,IL,39.799999,-89.650002,https://api.sunrise-sunset.org/json?lat=39.799999&lng=-89.650002&date=2022-01-01,1:18:18 PM,10:46:15 PM
+33,Winter Park,FL,28.598797,-81.358315,https://api.sunrise-sunset.org/json?lat=28.598797&lng=-81.358315&date=2022-01-01,12:16:54 PM,10:41:17 PM
+259,Springfield,OH,39.925751,-83.806694,https://api.sunrise-sunset.org/json?lat=39.925751&lng=-83.806694&date=2022-01-01,12:55:17 PM,10:22:30 PM
+144,Corning,NY,42.148773,-77.062103,https://api.sunrise-sunset.org/json?lat=42.148773&lng=-77.062103&date=2022-01-01,12:35:08 PM,9:48:41 PM
+123,Tonawanda,NY,43.015190,-78.891663,https://api.sunrise-sunset.org/json?lat=43.015190&lng=-78.891663&date=2022-01-01,12:45:15 PM,9:53:12 PM
+183,Evansville,IN,37.977222,-87.550552,https://api.sunrise-sunset.org/json?lat=37.977222&lng=-87.550552&date=2022-01-01,1:04:41 PM,10:43:04 PM
+4,Calumet City,IL,41.611603,-87.551186,https://api.sunrise-sunset.org/json?lat=41.611603&lng=-87.551186&date=2022-01-01,1:15:23 PM,10:32:22 PM
+931,Garden City Park,NY,40.740364,-73.662727,https://api.sunrise-sunset.org/json?lat=40.740364&lng=-73.662727&date=2022-01-01,12:17:09 PM,9:39:28 PM
+404,Roswell,GA,34.022003,-84.361549,https://api.sunrise-sunset.org/json?lat=34.022003&lng=-84.361549&date=2022-01-01,12:41:33 PM,10:40:40 PM
+156,Fulton,MO,38.846668,-91.948059,https://api.sunrise-sunset.org/json?lat=38.846668&lng=-91.948059&date=2022-01-01,1:24:44 PM,10:58:13 PM
+300,Las Cruces,NM,32.346596,-106.787720,https://api.sunrise-sunset.org/json?lat=32.346596&lng=-106.787720&date=2022-01-01,2:07:12 PM,12:14:30 AM
+51,Shelton,CT,41.306583,-73.143768,https://api.sunrise-sunset.org/json?lat=41.306583&lng=-73.143768&date=2022-01-01,12:16:48 PM,9:35:39 PM
+830,Lancaster,PA,40.044437,-76.306229,https://api.sunrise-sunset.org/json?lat=40.044437&lng=-76.306229&date=2022-01-01,12:25:38 PM,9:52:08 PM
+784,Brockton,MA,42.083431,-71.018379,https://api.sunrise-sunset.org/json?lat=42.083431&lng=-71.018379&date=2022-01-01,12:10:44 PM,9:24:42 PM
+616,Norman,OK,35.222569,-97.439476,https://api.sunrise-sunset.org/json?lat=35.222569&lng=-97.439476&date=2022-01-01,1:36:54 PM,11:29:59 PM
+408,Saint Charles,MO,38.788105,-90.497437,https://api.sunrise-sunset.org/json?lat=38.788105&lng=-90.497437&date=2022-01-01,1:18:45 PM,10:52:34 PM
+599,Deerfield Beach,FL,26.329422,-80.088615,https://api.sunrise-sunset.org/json?lat=26.329422&lng=-80.088615&date=2022-01-01,12:06:57 PM,10:41:05 PM
+720,Pearland,TX,29.563902,-95.285110,https://api.sunrise-sunset.org/json?lat=29.563902&lng=-95.285110&date=2022-01-01,1:14:46 PM,11:34:53 PM
+506,Alhambra,CA,34.095287,-118.127014,https://api.sunrise-sunset.org/json?lat=34.095287&lng=-118.127014&date=2022-01-01,2:56:49 PM,12:55:37 AM
+143,Cortland,NY,42.604729,-76.187370,https://api.sunrise-sunset.org/json?lat=42.604729&lng=-76.187370&date=2022-01-01,12:33:06 PM,9:43:43 PM
+176,Miami Gardens,FL,25.942122,-80.269920,https://api.sunrise-sunset.org/json?lat=25.942122&lng=-80.269920&date=2022-01-01,12:06:52 PM,10:42:37 PM
+892,Reno,NV,39.530895,-119.814972,https://api.sunrise-sunset.org/json?lat=39.530895&lng=-119.814972&date=2022-01-01,3:18:10 PM,12:47:46 AM
+893,Simi Valley,CA,34.269447,-118.781479,https://api.sunrise-sunset.org/json?lat=34.269447&lng=-118.781479&date=2022-01-01,2:59:52 PM,12:57:48 AM
+449,Vacaville,CA,38.356579,-121.987747,https://api.sunrise-sunset.org/json?lat=38.356579&lng=-121.987747&date=2022-01-01,3:23:31 PM,12:59:50 AM
+72,Panama City,FL,30.193626,-85.683029,https://api.sunrise-sunset.org/json?lat=30.193626&lng=-85.683029&date=2022-01-01,12:37:46 PM,10:55:02 PM
+85,Window Rock,AZ,35.678970,-109.067413,https://api.sunrise-sunset.org/json?lat=35.678970&lng=-109.067413&date=2022-01-01,2:24:36 PM,12:15:20 AM
+959,San Antonio,TX,29.424349,-98.491142,https://api.sunrise-sunset.org/json?lat=29.424349&lng=-98.491142&date=2022-01-01,1:27:16 PM,11:48:02 PM
+568,Dublin,CA,37.702152,-121.935791,https://api.sunrise-sunset.org/json?lat=37.702152&lng=-121.935791&date=2022-01-01,3:21:29 PM,1:01:26 AM
+769,Tucson,AZ,32.253460,-110.911789,https://api.sunrise-sunset.org/json?lat=32.253460&lng=-110.911789&date=2022-01-01,2:23:29 PM,12:31:13 AM
+768,Hialeah,FL,25.857595,-80.278107,https://api.sunrise-sunset.org/json?lat=25.857595&lng=-80.278107&date=2022-01-01,12:06:44 PM,10:42:49 PM
+864,Brick,NJ,40.060272,-74.139343,https://api.sunrise-sunset.org/json?lat=40.060272&lng=-74.139343&date=2022-01-01,12:17:01 PM,9:43:25 PM
+629,Conroe,TX,30.311876,-95.456055,https://api.sunrise-sunset.org/json?lat=30.311876&lng=-95.456055&date=2022-01-01,1:17:08 PM,11:33:53 PM
+388,Kent,WA,47.378010,-122.237381,https://api.sunrise-sunset.org/json?lat=47.378010&lng=-122.237381&date=2022-01-01,3:54:20 PM,12:31:00 AM
+855,Bowie,MD,39.013313,-76.776924,https://api.sunrise-sunset.org/json?lat=39.013313&lng=-76.776924&date=2022-01-01,12:24:31 PM,9:57:01 PM
+255,DeLand,FL,29.028318,-81.303116,https://api.sunrise-sunset.org/json?lat=29.028318&lng=-81.303116&date=2022-01-01,12:17:38 PM,10:40:07 PM
+437,Gresham Terrace,Gresham,45.502842,-122.427444,https://api.sunrise-sunset.org/json?lat=45.502842&lng=-122.427444&date=2022-01-01,3:48:00 PM,12:38:51 AM
+101,South San Francisco,CA,37.662937,-122.433014,https://api.sunrise-sunset.org/json?lat=37.662937&lng=-122.433014&date=2022-01-01,3:23:22 PM,1:03:32 AM
+969,Yuba City,California,39.136986,-121.607841,https://api.sunrise-sunset.org/json?lat=39.136986&lng=-121.607841&date=2022-01-01,3:24:12 PM,12:56:05 AM
+32,Americus,GA,32.072433,-84.233978,https://api.sunrise-sunset.org/json?lat=32.072433&lng=-84.233978&date=2022-01-01,12:36:19 PM,10:44:53 PM
+879,Beaumont,TX,30.081987,-94.118637,https://api.sunrise-sunset.org/json?lat=30.081987&lng=-94.118637&date=2022-01-01,1:11:16 PM,11:29:03 PM
+526,Reading,PA,40.335648,-75.926872,https://api.sunrise-sunset.org/json?lat=40.335648&lng=-75.926872&date=2022-01-01,12:24:59 PM,9:49:45 PM
+507,Sandy Springs,GA,33.935101,-84.360924,https://api.sunrise-sunset.org/json?lat=33.935101&lng=-84.360924&date=2022-01-01,12:41:20 PM,10:40:53 PM
+551,Yorktown,VA,37.238754,-76.509674,https://api.sunrise-sunset.org/json?lat=37.238754&lng=-76.509674&date=2022-01-01,12:18:30 PM,10:00:54 PM
+389,North Las Vegas,NV,36.201946,-115.120216,https://api.sunrise-sunset.org/json?lat=36.201946&lng=-115.120216&date=2022-01-01,2:50:11 PM,12:38:12 AM
+129,Plattsburgh,NY,44.699764,-73.471428,https://api.sunrise-sunset.org/json?lat=44.699764&lng=-73.471428&date=2022-01-01,12:29:18 PM,9:25:47 PM
+203,Escondido,CA,33.124722,-117.080833,https://api.sunrise-sunset.org/json?lat=33.124722&lng=-117.080833&date=2022-01-01,2:50:15 PM,12:53:49 AM
+61,Coral Gables,FL,25.750156,-80.279640,https://api.sunrise-sunset.org/json?lat=25.750156&lng=-80.279640&date=2022-01-01,12:06:31 PM,10:43:03 PM
+496,Nashua,NH,42.765366,-71.467567,https://api.sunrise-sunset.org/json?lat=42.765366&lng=-71.467567&date=2022-01-01,12:14:44 PM,9:24:18 PM
+120,Utica,NY,43.107204,-75.252312,https://api.sunrise-sunset.org/json?lat=43.107204&lng=-75.252312&date=2022-01-01,12:31:00 PM,9:38:20 PM
+104,San Marino,CA,34.121300,-118.132607,https://api.sunrise-sunset.org/json?lat=34.121300&lng=-118.132607&date=2022-01-01,2:56:54 PM,12:55:35 AM
+809,Pembroke,MA,42.071491,-70.809196,https://api.sunrise-sunset.org/json?lat=42.071491&lng=-70.809196&date=2022-01-01,12:09:52 PM,9:23:54 PM
+398,Rio Linda,CA,38.691013,-121.448563,https://api.sunrise-sunset.org/json?lat=38.691013&lng=-121.448563&date=2022-01-01,3:22:18 PM,12:56:43 AM
+566,Doral,FL,25.819542,-80.355331,https://api.sunrise-sunset.org/json?lat=25.819542&lng=-80.355331&date=2022-01-01,12:06:58 PM,10:43:13 PM
+707,San Clemente,CA,33.426971,-117.611992,https://api.sunrise-sunset.org/json?lat=33.426971&lng=-117.611992&date=2022-01-01,2:53:07 PM,12:55:12 AM
+314,Muskegon,MI,43.224194,-86.235809,https://api.sunrise-sunset.org/json?lat=43.224194&lng=-86.235809&date=2022-01-01,1:15:19 PM,10:21:54 PM
+56,Bartow,FL,27.891005,-81.847359,https://api.sunrise-sunset.org/json?lat=27.891005&lng=-81.847359&date=2022-01-01,12:17:19 PM,10:44:47 PM
+906,Seminole,TX,32.719276,-102.644661,https://api.sunrise-sunset.org/json?lat=32.719276&lng=-102.644661&date=2022-01-01,1:51:31 PM,11:57:01 PM
+590,Little Rock,AR,34.746483,-92.289597,https://api.sunrise-sunset.org/json?lat=34.746483&lng=-92.289597&date=2022-01-01,1:15:05 PM,11:10:35 PM
+651,Dorchester,Boston,42.302708,-71.072105,https://api.sunrise-sunset.org/json?lat=42.302708&lng=-71.072105&date=2022-01-01,12:11:39 PM,9:24:13 PM
+655,Cedar Park,TX,30.505198,-97.820290,https://api.sunrise-sunset.org/json?lat=30.505198&lng=-97.820290&date=2022-01-01,1:27:02 PM,11:42:54 PM
+334,Nampa,Idaho,43.565468,-116.560822,https://api.sunrise-sunset.org/json?lat=43.565468&lng=-116.560822&date=2022-01-01,3:17:46 PM,12:22:08 AM
+349,Portland,OR,45.523064,-122.676483,https://api.sunrise-sunset.org/json?lat=45.523064&lng=-122.676483&date=2022-01-01,3:49:04 PM,12:39:47 AM
+467,Pontiac,MI,42.638924,-83.291046,https://api.sunrise-sunset.org/json?lat=42.638924&lng=-83.291046&date=2022-01-01,1:01:37 PM,10:12:02 PM
+942,Maysville,KY,38.641186,-83.744362,https://api.sunrise-sunset.org/json?lat=38.641186&lng=-83.744362&date=2022-01-01,12:51:19 PM,10:25:58 PM
+41,Fort Pierce,FL,27.450266,-80.339951,https://api.sunrise-sunset.org/json?lat=27.450266&lng=-80.339951&date=2022-01-01,12:10:20 PM,10:39:42 PM
+116,Claremont,CA,34.132236,-117.739929,https://api.sunrise-sunset.org/json?lat=34.132236&lng=-117.739929&date=2022-01-01,2:55:22 PM,12:53:59 AM
+86,Globe,AZ,33.395844,-110.793739,https://api.sunrise-sunset.org/json?lat=33.395844&lng=-110.793739&date=2022-01-01,2:25:45 PM,12:28:00 AM
+639,Ventura,CA,34.274647,-119.229034,https://api.sunrise-sunset.org/json?lat=34.274647&lng=-119.229034&date=2022-01-01,3:01:40 PM,12:59:35 AM
+443,Beaverton,OR,45.485168,-122.804489,https://api.sunrise-sunset.org/json?lat=45.485168&lng=-122.804489&date=2022-01-01,3:49:26 PM,12:40:26 AM
+401,Westland,MI,42.324268,-83.399017,https://api.sunrise-sunset.org/json?lat=42.324268&lng=-83.399017&date=2022-01-01,1:01:02 PM,10:13:29 PM
+368,Russellville,AL,34.501942,-87.731789,https://api.sunrise-sunset.org/json?lat=34.501942&lng=-87.731789&date=2022-01-01,12:56:14 PM,10:52:58 PM
+434,The Villages,FL,28.927019,-82.003761,https://api.sunrise-sunset.org/json?lat=28.927019&lng=-82.003761&date=2022-01-01,12:20:13 PM,10:43:09 PM
+171,Waterbury,CT,41.556110,-73.041389,https://api.sunrise-sunset.org/json?lat=41.556110&lng=-73.041389&date=2022-01-01,12:17:10 PM,9:34:28 PM
+186,Berkeley,CA,37.871666,-122.272781,https://api.sunrise-sunset.org/json?lat=37.871666&lng=-122.272781&date=2022-01-01,3:23:18 PM,1:02:19 AM
+89,Troy,AL,31.806484,-85.968628,https://api.sunrise-sunset.org/json?lat=31.806484&lng=-85.968628&date=2022-01-01,12:42:38 PM,10:52:27 PM
+485,Brea,CA,33.916679,-117.900063,https://api.sunrise-sunset.org/json?lat=33.916679&lng=-117.900063&date=2022-01-01,2:55:28 PM,12:55:09 AM
+110,Malibu,CA,34.031246,-118.788193,https://api.sunrise-sunset.org/json?lat=34.031246&lng=-118.788193&date=2022-01-01,2:59:18 PM,12:58:26 AM
+102,Sausalito,CA,37.865894,-122.498055,https://api.sunrise-sunset.org/json?lat=37.865894&lng=-122.498055&date=2022-01-01,3:24:11 PM,1:03:14 AM
+891,Sacramento,CA,38.575764,-121.478851,https://api.sunrise-sunset.org/json?lat=38.575764&lng=-121.478851&date=2022-01-01,3:22:05 PM,12:57:10 AM
+409,Carrollton,TX,32.974586,-96.889900,https://api.sunrise-sunset.org/json?lat=32.974586&lng=-96.889900&date=2022-01-01,1:29:07 PM,11:33:23 PM
+313,Chester,SC,34.704929,-81.210251,https://api.sunrise-sunset.org/json?lat=34.704929&lng=-81.210251&date=2022-01-01,12:30:40 PM,10:26:21 PM
+380,Lakewood,CO,39.710850,-105.081505,https://api.sunrise-sunset.org/json?lat=39.710850&lng=-105.081505&date=2022-01-01,2:19:46 PM,11:48:17 PM
+130,Peekskill,NY,41.292282,-73.930725,https://api.sunrise-sunset.org/json?lat=41.292282&lng=-73.930725&date=2022-01-01,12:19:55 PM,9:38:51 PM
+874,Calhoun,GA,34.501690,-84.939697,https://api.sunrise-sunset.org/json?lat=34.501690&lng=-84.939697&date=2022-01-01,12:45:04 PM,10:41:47 PM
+273,Santee,CA,32.838383,-116.973915,https://api.sunrise-sunset.org/json?lat=32.838383&lng=-116.973915&date=2022-01-01,2:49:08 PM,12:54:05 AM
+513,Jackson,MS,32.298756,-90.184807,https://api.sunrise-sunset.org/json?lat=32.298756&lng=-90.184807&date=2022-01-01,1:00:40 PM,11:08:10 PM
+719,Carmel,Indiana,39.978371,-86.118042,https://api.sunrise-sunset.org/json?lat=39.978371&lng=-86.118042&date=2022-01-01,1:04:41 PM,10:31:36 PM
+111,Lodi,CA,38.130123,-121.290443,https://api.sunrise-sunset.org/json?lat=38.130123&lng=-121.290443&date=2022-01-01,3:20:05 PM,12:57:40 AM
+205,Springfield,MA,42.101391,-72.590279,https://api.sunrise-sunset.org/json?lat=42.101391&lng=-72.590279&date=2022-01-01,12:17:05 PM,9:30:56 PM
+792,Shreveport,LA,32.523659,-93.763504,https://api.sunrise-sunset.org/json?lat=32.523659&lng=-93.763504&date=2022-01-01,1:15:31 PM,11:21:57 PM
+488,Anderson,SC,34.503441,-82.650131,https://api.sunrise-sunset.org/json?lat=34.503441&lng=-82.650131&date=2022-01-01,12:35:55 PM,10:32:37 PM
+781,Milford,CT,41.230698,-73.064034,https://api.sunrise-sunset.org/json?lat=41.230698&lng=-73.064034&date=2022-01-01,12:16:15 PM,9:35:34 PM
+224,Aurora,CO,39.710835,-104.812500,https://api.sunrise-sunset.org/json?lat=39.710835&lng=-104.812500&date=2022-01-01,2:18:41 PM,11:47:12 PM
+520,East Peoria,IL,40.666149,-89.580101,https://api.sunrise-sunset.org/json?lat=40.666149&lng=-89.580101&date=2022-01-01,1:20:36 PM,10:43:24 PM
+330,Danbury,CT,41.394966,-73.454079,https://api.sunrise-sunset.org/json?lat=41.394966&lng=-73.454079&date=2022-01-01,12:18:19 PM,9:36:37 PM
+867,Fresno,TX,29.540457,-95.448189,https://api.sunrise-sunset.org/json?lat=29.540457&lng=-95.448189&date=2022-01-01,1:15:22 PM,11:35:35 PM
+930,Suffolk,VA,36.732830,-76.579002,https://api.sunrise-sunset.org/json?lat=36.732830&lng=-76.579002&date=2022-01-01,12:17:24 PM,10:02:32 PM
+909,Chesapeake,VA,36.779591,-76.288376,https://api.sunrise-sunset.org/json?lat=36.779591&lng=-76.288376&date=2022-01-01,12:16:22 PM,10:01:15 PM
+295,Greenville,NC,35.612659,-77.366356,https://api.sunrise-sunset.org/json?lat=35.612659&lng=-77.366356&date=2022-01-01,12:17:37 PM,10:08:38 PM
+905,Allentown,PA,40.613953,-75.477791,https://api.sunrise-sunset.org/json?lat=40.613953&lng=-75.477791&date=2022-01-01,12:24:02 PM,9:47:07 PM
+115,Coronado,CA,32.631718,-117.136772,https://api.sunrise-sunset.org/json?lat=32.631718&lng=-117.136772&date=2022-01-01,2:49:17 PM,12:55:14 AM
