@@ -56,7 +56,7 @@ var defaultSettings = {
   "settings_version": scriptVersion,
   "create_promo_image": false,
   "promo_image_width": 1024,
-  "image_format": ["auto"],  // Options: auto, png, png24, jpg, svg
+  "image_format": ["png"],  // Options: auto, png, png24, jpg, svg
   "write_image_files": true,
   "responsiveness": "fixed", // Options: fixed, dynamic
   "max_width": "",
@@ -72,7 +72,7 @@ var defaultSettings = {
   "create_config_file": false,
   "config_file_path": "",
   "local_preview_template": "",
-  "png_transparent": false,
+  "png_transparent": true,
   "png_number_of_colors": 128, // Number of colors in 8-bit PNG image (1-256)
   "jpg_quality": 60,
   "center_html_output": true,
@@ -3525,7 +3525,7 @@ function createPromoImage(settings) {
         image_width: settings.promo_image_width || 1024,
         jpg_quality: settings.jpg_quality,
         png_number_of_colors: settings.png_number_of_colors,
-        png_transparent: false
+        png_transparent: true
       };
   doc.artboards.setActiveArtboardIndex(abIndex);
   exportRasterImage(outputPath, ab, format, opts);
