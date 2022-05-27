@@ -1,5 +1,4 @@
 # Examining the push for year-round daylight saving time
-## (Work in Progress)
 
 [Click here to view the visualizations on the web](http://juliaingram.github.io/daylight-saving)
 
